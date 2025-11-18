@@ -6,11 +6,11 @@ I am a Master's Student in **Applied Computational Intelligence** and an aspirin
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **AI & Data Engineering**
 * **LLMs:** OpenAI API, Anthropic, Google AI, Open-Source Models (HuggingFace)
-* **Architecture:** RAG (Retrieval-Augmented Generation), Agents, Memory Systems
+* **Architecture:** RAG (Retrieval-Augmented Generation), Agents, Memory
 * **Vector DBs:** Supabase (pgvector), Embeddings
 * **Tools:** LangChain, Prompt Engineering
 
