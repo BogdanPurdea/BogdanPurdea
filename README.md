@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! I'm [Your Name] 👋
 
-<!--
-**BogdanPurdea/BogdanPurdea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Introduction
 
-Here are some ideas to get you started:
+I am a Master's Student in **Applied Computational Intelligence** and an aspiring AI Engineer passionate about building the next generation of software. I focus in designing **LLM-based systems**, **RAG architectures**, and **agentic workflows**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**AI & Data Engineering**
+* **LLMs:** OpenAI API, Anthropic, Google AI, Open-Source Models (HuggingFace)
+* **Architecture:** RAG (Retrieval-Augmented Generation), Agents, Memory Systems
+* **Vector DBs:** Supabase (pgvector), Embeddings
+* **Tools:** LangChain, Prompt Engineering
+
+**Full-stack & Cloud**
+* **Languages:** Python, JavaScript/TypeScript, C#
+* **Frameworks:** FastAPI, Node.js, Express.js, .NET Core, Entity
+* **Database:** SQL, NoSQL, MongoDB
+* **Deployment:** Cloudflare Workers, Cloudflare AI Gateways, Docker
+
+**AI-Assisted Workflow**
+* I'm using IDEs extended with **GitHub Copilot**, and **Claude Code** to increase my productivity.
+
+**Currently Exploring:** 
+* Next.js, Tailwind CSS, agentic workflows, orchestration frameworks (LangGraph/LangChain), CI/CD, MCP.
+
+---
